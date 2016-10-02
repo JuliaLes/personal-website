@@ -1,6 +1,6 @@
 # portfolio-website
 
-Work for personal website using HTML+CSS July 2016. This site can be visited on the web at JuliaLes.com. 
+Personal website created using HTML+CSS. This site is hosted by GitHub Pages at JuliaLes.github.io/personal-website. 
 
 
 
